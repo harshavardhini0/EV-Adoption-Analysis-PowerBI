@@ -42,5 +42,7 @@ Data Analytics
 
 Source: Washington State Department of Licensing (data.wa.gov)
 
+![image url](https://github.com/harshavardhini0/EV-Adoption-Analysis-PowerBI/blob/8ce67e60f52f223a14cc09a4b5c4ab054c20bcc1/Screenshot%202025-12-18%20155142.png)
+
 
 
