@@ -42,7 +42,15 @@ Data Analytics
 
 Source: Washington State Department of Licensing (data.wa.gov)
 
+📸 Dashboard Preview
+
 ![image url](https://github.com/harshavardhini0/EV-Adoption-Analysis-PowerBI/blob/8ce67e60f52f223a14cc09a4b5c4ab054c20bcc1/Screenshot%202025-12-18%20155142.png)
+![image url](https://github.com/harshavardhini0/EV-Adoption-Analysis-PowerBI/blob/2ddfd25365f33ba2fc9720c00b218d6bc6896bee/Screenshot%202025-12-18%20155600.png)
+![image url](https://github.com/harshavardhini0/EV-Adoption-Analysis-PowerBI/blob/2ddfd25365f33ba2fc9720c00b218d6bc6896bee/Screenshot%202025-12-18%20155642.png).
+![image url](https://github.com/harshavardhini0/EV-Adoption-Analysis-PowerBI/blob/2ddfd25365f33ba2fc9720c00b218d6bc6896bee/Screenshot%202025-12-18%20155708.png)
+
+🔗 Live Demo / Video
+https://www.linkedin.com/posts/harshavardhini22_powerbi-dataanalytics-electricvehicles-activity-7407357787443298304-vZew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfYdDkB0wyR-UsSHo-ioxZrDF-tFtIvvys
 
 
 
